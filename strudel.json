@@ -1,3 +1,4 @@
 {"_base": "https://raw.githubusercontent.com/d-a-v-d-e/StrudelSamples/main/",
-  "square": "main_square.wav", "bass_square.wav",
+  "square": "main_square.wav",
+  "bassSquare": "bass_square.wav",
   "triangle": "main_triangle.wav"}
