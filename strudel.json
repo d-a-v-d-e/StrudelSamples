@@ -2,4 +2,5 @@
   "square": "main_square.wav",
   "bassquare": "bass_square.wav",
   "triangle": "main_triangle.wav",
-  "basstriangle": "bass_triangle.wav"}
+  "basstriangle": "bass_triangle.wav",
+  "wnoise": "wnoise.wav"}
